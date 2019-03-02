@@ -4,7 +4,7 @@
   "description": "Just a chat app using node and socket io",
   "main": "index.js",
   "scripts": {
-    "test": "tse"
+    "start": "node index.js"
   },
   "keywords": [
     "socket",
